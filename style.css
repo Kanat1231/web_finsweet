@@ -423,6 +423,7 @@ body{
 
 .Section4_cards > div:hover{
     background-color: #FFD050;
+    border: none;
 }
 
 .Section4_card1{
